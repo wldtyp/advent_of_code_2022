@@ -1,1 +1,2 @@
-print("Hello World")
+input = io.read("*all")
+io.write(input)
